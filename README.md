@@ -46,10 +46,10 @@ The project focuses on providing a secure and user-friendly system for managing 
 
 To run the project locally:
 
-Live Demo : https://sparkly-wisp-415159.netlify.app/
 
-1. Clone the repository: git clone https://github.com/Vijayarajvijay/Password-Reset-BE
-2. Front  End code : https://github.com/Vijayarajvijay/Password-Reset-FE/tree/main
+
+1. Clone the repository: (https://github.com/sanjaimadhu/PASSWORD-RESET-BE)
+2. Front  End code :(https://github.com/sanjaimadhu/PASSWORD-RESET-FE)
 3. Poast Man Documentation Link : https://documenter.getpostman.com/view/30449043/2s9YeN3pPS
 4. Navigate to the project directory and install 
 dependencies: npm install
