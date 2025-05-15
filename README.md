@@ -50,13 +50,12 @@ To run the project locally:
 
 1. Clone the repository: (https://github.com/sanjaimadhu/PASSWORD-RESET-BE)
 2. Front  End code :(https://github.com/sanjaimadhu/PASSWORD-RESET-FE)
-3. Poast Man Documentation Link : https://documenter.getpostman.com/view/30449043/2s9YeN3pPS
-4. Navigate to the project directory and install 
+3. Navigate to the project directory and install 
 dependencies: npm install
 
-5. Set up environment variables (such as database connection strings, email configurations, etc.).
+4. Set up environment variables (such as database connection strings, email configurations, etc.).
 
-6. Start the development server: `npm start`
+5. Start the development server: `npm start`
 ## Usage:
 
 Users can navigate through the signup and login pages to create an account or access their existing account. In case of a forgotten password, they can request a password reset via the provided email functionality and securely set a new password.
